@@ -1,0 +1,6 @@
+{
+  "name": "વર્ગીકરણ માસ્ટર (Std 6-8 Vargikaran Game)",
+  "description": "ધોરણ ૬ થી ૮ ના વિદ્યાર્થીઓ માટે વિજ્ઞાન અને સામાજિક વિજ્ઞાન વિષય આધારિત સરળ અને મનોરંજક વર્ગીકરણ ગેમ (Gujarati Classification Game for Std 6-8).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
